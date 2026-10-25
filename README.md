@@ -80,11 +80,42 @@
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Яндекс Игры](https://img.shields.io/badge/Яндекс_Игры-FC3F1D?style=flat)
+![Canvas](https://img.shields.io/badge/Canvas-E34F26?style=flat&logo=html5&logoColor=white)
+
+**Данные и ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-8CAAE6?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat&logo=python&logoColor=white)
+![openpyxl](https://img.shields.io/badge/Excel_·_openpyxl-217346?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Десктоп и браузер**
+
+![Swing](https://img.shields.io/badge/Java_Swing-E76F00?style=flat&logo=openjdk&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat&logo=python&logoColor=white)
+![Chrome Extensions](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat&logo=googlechrome&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+
+**Сборка и тесты**
+
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![SwiftPM](https://img.shields.io/badge/SwiftPM-F05138?style=flat&logo=swift&logoColor=white)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat&logo=google&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat&logo=junit5&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat&logo=dotnet&logoColor=white)
+![XCTest](https://img.shields.io/badge/XCTest-147EFB?style=flat&logo=swift&logoColor=white)
+![ShellCheck](https://img.shields.io/badge/ShellCheck-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ## Избранные проекты
 
 | Проект | Что это | Стек |
 |---|---|---|
+| [szhatie](https://github.com/whysafe/szhatie) | gzip с нуля без zlib: LZ77, Хаффман с ограничением длины, совместим с GNU gzip | C++20, CMake |
+| [raskladka.nvim](https://github.com/whysafe/raskladka.nvim) | Плагин Neovim: ghbdtn → привет для слова, выделения и прямо в режиме вставки | Lua, Neovim |
+| [rekvizit](https://github.com/whysafe/rekvizit) | Проверка ИНН, ОГРН, СНИЛС, БИК и счетов по контрольным суммам, генератор тестовых номеров | Swift |
 | [kroshka-db](https://github.com/whysafe/kroshka-db) | SQL-база данных с нуля: B+деревья, журнал отката, планировщик с выбором индекса | Python |
 | [asm-coreutils](https://github.com/whysafe/asm-coreutils) | cat, wc, hexdump и rev на чистом NASM без libc, вывод совпадает с GNU байт в байт | Assembly, Linux |
 | [biblioteka-api](https://github.com/whysafe/biblioteka-api) | REST API библиотеки: выдачи, штрафы, очередь бронирования, тесты в Testcontainers | Java, Spring Boot, PostgreSQL |
